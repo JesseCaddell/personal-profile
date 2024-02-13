@@ -8,16 +8,17 @@
 }
 
 .hobbies li {
-  color: purple;
+  color: black;
   font-size: 45;
+  font-weight: bold;
 }
 .hobbies h1 {
-  color: purple;
+  color: white;
 }
 
 body {
-  background-image:url('./cat.jpg');
-  background-size: contain;
+  background-image:url('./inferno.jpg');
+  background-size: cover;
 }
 
 .container {
