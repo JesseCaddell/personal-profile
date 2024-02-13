@@ -6,6 +6,9 @@
 .hobbies {
   font-family: Arial, Helvetica, sans-serif;
 }
+.hobbies-container {
+  text-align: center;
+}
 
 .hobbies li {
   color: black;
